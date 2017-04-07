@@ -1,10 +1,7 @@
 package Zaliczeniowe2.web;
 
-import Zaliczeniowe2.Utils.DummyDB.DummyUserDB;
-import Zaliczeniowe2.Utils.StringUtils;
 import Zaliczeniowe2.domain.User;
 
-import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

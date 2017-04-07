@@ -1,6 +1,6 @@
 package Zaliczeniowe2.web.filters;
 
-import Zaliczeniowe2.Utils.DummyDB.DummyUserDB;
+import Zaliczeniowe2.Utils.DummyUserDB;
 import Zaliczeniowe2.Utils.StringUtils;
 import Zaliczeniowe2.domain.User;
 

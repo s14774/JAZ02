@@ -1,4 +1,4 @@
-package Zaliczeniowe2.Utils.DummyDB;
+package Zaliczeniowe2.Utils;
 import Zaliczeniowe2.Utils.StringUtils;
 import Zaliczeniowe2.domain.User;
 import javax.servlet.ServletContext;

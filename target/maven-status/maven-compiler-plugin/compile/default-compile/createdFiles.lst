@@ -11,8 +11,8 @@ Zaliczeniowe2/web/ListUserServlet.class
 Zajecia/Repositories/DummyApplicationRepository.class
 Zaliczeniowe2/web/ListUser2Servlet.class
 Zajecia/domain/ConferenceApplication.class
-Zaliczeniowe2/web/LoginUserServlet.class
 Zajecia/Repositories/ConferenceApplicationRepository.class
+Zaliczeniowe2/web/LoginUserServlet.class
 Zajecia/web/filters/ApplicationDataInSessionFilter.class
 Zaliczeniowe2/domain/User.class
 Zaliczeniowe2/Utils/StringUtils.class
